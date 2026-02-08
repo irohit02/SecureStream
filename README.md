@@ -1,4 +1,4 @@
-# Encrypted File Transfer System using TCP Sockets
+# SecureStream - Encrypted File Transfer System using TCP Sockets
 
 This project simulates a secure communication system designed for battlefield environments. It facilitates the transmission of structured target data from a client to a server using TCP socket programming in Python.
 
